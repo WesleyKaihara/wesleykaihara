@@ -1,5 +1,5 @@
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wesleykaihara&layout=compact)](https://github.com/wesleykaihara/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleykaihara&layout=compact&theme=dark">
 
 ## Tecnologias: 
 
