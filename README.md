@@ -10,12 +10,9 @@ Atualmente cursando Tecnologia em Análise e Desenvolvimento de Sistemas pelo Ce
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyKaihara&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+![](https://github-readme-stats.vercel.app/api?username=WesleyKaihara&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=WesleyKaihara&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api?username=WesleyKaihara&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer" style="width:100%"/>
 
----
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
