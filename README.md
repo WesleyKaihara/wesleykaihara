@@ -1,14 +1,45 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+```json
+{
+    "name": "Wesley Kaihara",
+    "age": 21,
+    "linkedin": "https://www.linkedin.com/in/wesleykaihara/",
+    "location": "Paraná, Brazil",
+    "occupation": "Full Stack Developer",
+    "stack": ["TypeScript", "Node.js", "NestJS", "SQL", "React", "Golang", "PHP"],
+    "academic_background": [
+        "Postgraduate in Software Architecture - FIAP",
+        "Bachelor's in Analysis and Systems Development (TADS) - Centro Universitário Integrado"
+    ],
+    "experience": [
+        {
+            "company": "Viptech Smart Solutions",
+            "role": "Full Stack Developer",
+            "period": "Aug 2024 - Present",
+            "description": "Developing and maintaining applications, improving legacy systems, and implementing software architecture best practices."
+        },
+        {
+            "company": "Centro Universitário Integrado",
+            "role": "Full Stack Developer",
+            "period": "Jan 2024 - Aug 2024",
+            "description": "Developed and maintained software used by over 8,000 students and staff, configured test suites, and contributed to system improvements."
+        },
+        {
+            "company": "Centro Universitário Integrado",
+            "role": "Software Development Intern",
+            "period": "Jul 2023 - Dec 2023",
+            "description": "Assisted in software development, troubleshooting issues, and learning best practices in software engineering."
+        }
+    ],
+    "hobbies": ["coding", "reading", "traveling"],
+    "achievements": [
+        "2nd place at Oracle Hackathon",
+        "Speaker at TDC Future 2023",
+        "Speaker at Confloss 2023",
+        "Academic Laureate - Class of 2024/1 (General and TADS)"
+    ],
+    "interests": ["Startups", "Development", "Software Architecture", "Testing", "Traveling"]
+}
 
-# 💫 Sobre mim:
-<h4 align="left" padding="25px 50px 75px 100px"> 
-  Olá, meu nome é Wesley, sou um desenvolvedor web e entusiasta por tecnologia. Tenho experiência na construção e manutenção de sistemas construidos com PHP e javascript e estou sempre em busca de novas tecnologias para me aprimorar. 
-</h4>
 
-## 🔧 Tecnologias e Ferramentas
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-<br>
+```
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=WesleyKaihara&theme=dark&hide_border=false)<br/>
-
- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer" style="width:100%"/>
