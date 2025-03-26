@@ -14,20 +14,17 @@
         {
             "company": "Viptech Smart Solutions",
             "role": "Full Stack Developer",
-            "period": "Aug 2024 - Present",
-            "description": "Developing and maintaining applications, improving legacy systems, and implementing software architecture best practices."
+            "period": "Aug 2024 - Present"
         },
         {
             "company": "Centro Universitário Integrado",
             "role": "Full Stack Developer",
-            "period": "Jan 2024 - Aug 2024",
-            "description": "Developed and maintained software used by over 8,000 students and staff, configured test suites, and contributed to system improvements."
+            "period": "Jan 2024 - Aug 2024"
         },
         {
             "company": "Centro Universitário Integrado",
             "role": "Software Development Intern",
-            "period": "Jul 2023 - Dec 2023",
-            "description": "Assisted in software development, troubleshooting issues, and learning best practices in software engineering."
+            "period": "Jul 2023 - Dec 2023"
         }
     ],
     "hobbies": ["coding", "reading", "traveling"],
