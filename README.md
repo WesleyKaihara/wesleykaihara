@@ -14,17 +14,17 @@
         {
             "company": "Viptech Smart Solutions",
             "role": "Full Stack Developer",
-            "period": "Aug 2024 - Present"
+            "period": "Jan 2024 - Present"
         },
         {
             "company": "Centro Universitário Integrado",
             "role": "Full Stack Developer",
-            "period": "Jan 2024 - Aug 2024"
+            "period": "Aug 2023 - December 2024"
         },
         {
             "company": "Centro Universitário Integrado",
             "role": "Software Development Intern",
-            "period": "Jul 2023 - Dec 2023"
+            "period": "Jul 2022 - Aug 2023"
         }
     ],
     "hobbies": ["coding", "reading", "traveling"],
