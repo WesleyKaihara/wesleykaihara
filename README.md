@@ -19,12 +19,12 @@
         {
             "company": "Centro Universitário Integrado",
             "role": "Full Stack Developer",
-            "period": "Aug 2023 - December 2024"
+            "period": "Oct 2023 - December 2024"
         },
         {
             "company": "Centro Universitário Integrado",
             "role": "Software Development Intern",
-            "period": "Jul 2022 - Aug 2023"
+            "period": "Jul 2022 - Oct 2023"
         }
     ],
     "hobbies": ["coding", "reading", "traveling"],
