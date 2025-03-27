@@ -14,7 +14,7 @@
         {
             "company": "Viptech Smart Solutions",
             "role": "Full Stack Developer",
-            "period": "Jan 2024 - Present"
+            "period": "Jan 2025 - Present"
         },
         {
             "company": "Centro Universitário Integrado",
